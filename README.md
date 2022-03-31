@@ -3,7 +3,7 @@
 # Quick Start
 
 1. install your dependencies
-   yarn install
+   npm install
 
 2. start a hardhat node
    npx hardhat node
